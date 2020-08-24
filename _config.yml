@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: Server status project
+description: Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting.
